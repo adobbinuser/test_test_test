@@ -5,7 +5,9 @@ dev:here start codding
 dev:here start codding ttt
 dev:second changing
 dev:third
+feature2: start
 ------------------------------------
-
+feature2: first
+feature3: second
 }
 feature: start
